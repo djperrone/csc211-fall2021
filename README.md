@@ -22,7 +22,7 @@
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
 | Day | Staff Member |  Time | Modality |
-| --- | --- | --- |
+| --- | --- | --- |--- |
 |Monday |   David |   4:00p – 5:00p  | In-person |
 |TBD |   David |   TBD  | Virtual |
 
@@ -31,7 +31,7 @@
 <br>Location: Library ~ rm166
 
 | Day | Staff Member |  Time | Modality |
-| --- | --- | --- |
+| --- | --- | --- |--- |
 |Monday |   John, Jordan, Tanner |   3:00p – 4:45p  | In-person |
 |Friday |   Lily, Nick Matt, Jason |   12:00p – 1:45p| In-person |
 |Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person |
