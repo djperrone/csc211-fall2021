@@ -1,4 +1,4 @@
-## CSC 211 - Object Oriented Programming (Spring 2020)
+## CSC 211 - Object Oriented Programming (Fall 2021)
 
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
@@ -9,7 +9,7 @@
 <br>Location: Tyler Hall ~ Third (top) Floor Lounge
 
 | Day | Staff Member |  Time | Modality |
-| --- | --- | --- |
+| --- | --- | --- |--- |
 |Monday    |   Lily <br>  David <br> Matt |   10a - 1p  <br> 10a - 12p <br> 1p-2p  |   Virtual <br> In-person <br> In-person  |
 |Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person  |
 |Wednesday |    Nick   |   2p - 5p   |   Virtual   |
