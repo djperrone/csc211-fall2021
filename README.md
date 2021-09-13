@@ -32,7 +32,7 @@
 
 | Day | Staff Member |  Time | Modality |
 | --- | --- | --- |--- |
-|Monday |   Matt, David |   3:00p – 4:45p  | In-person |
+|Monday |   Matt, David |   2:00p – 3:45p  | In-person |
 |Friday |   Lily, Nick, Matt, Jason |   12:00p – 1:45p| In-person |
 |Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person |
 
