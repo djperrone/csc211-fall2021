@@ -11,13 +11,13 @@
 | Day | Staff Member |  Time | Modality |
 | --- | --- | --- |--- |
 |Monday    |   Lily <br>  David <br> Matt |   10a - 1p  <br> 10a - 12p <br> 1p-2p  |   Virtual <br> In-person <br> In-person  |
-|Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person  |
+|Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person (Tyler 137)  |
 |Wednesday |    Nick   |   2p - 5p   |   Virtual   |
 |Thursday  |   David <br> Lily   |  9a - 11a <br> 10a - 1p   | Virtual <br>  In-person   |
-|Friday    |    Jason   |   a - 10:45a   |   In- Person   |
+|Friday    |    Jason   |   9a - 10:45a   |   In- Person   |
 
 **Discussion Session**
-<br> Location: TBD
+<br> Location: Library rm166
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
@@ -28,13 +28,12 @@
 
 
 **Lab**
-<br>Location: Library ~ rm166
 
-| Day | Staff Member |  Time | Modality |
-| --- | --- | --- |--- |
-|Monday |   John, Jordan, Tanner |   3:00p – 4:45p  | In-person |
-|Friday |   Lily, Nick Matt, Jason |   12:00p – 1:45p| In-person |
-|Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person |
+| Day | Staff Member |  Time | Modality | Location |
+| --- | --- | --- |--- | --- |
+|Monday |   Matt, David |   2:00p – 3:45p  | In-person | Tyler 055 |
+|Friday |   Lily, Nick, Matt, Jason |   12:00p – 1:45p| In-person | Library rm166|
+|Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person | Library rm166|
 
 ### Course Overview
 
