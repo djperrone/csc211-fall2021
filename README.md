@@ -14,7 +14,7 @@
 |Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person  |
 |Wednesday |    Nick   |   2p - 5p   |   Virtual   |
 |Thursday  |   David <br> Lily   |  9a - 11a <br> 10a - 1p   | Virtual <br>  In-person   |
-|Friday    |    Jason   |   a - 10:45a   |   In- Person   |
+|Friday    |    Jason   |   9a - 10:45a   |   In- Person   |
 
 **Discussion Session**
 <br> Location: Library rm166
