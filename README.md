@@ -17,7 +17,7 @@
 |Friday    |    Jason   |   a - 10:45a   |   In- Person   |
 
 **Discussion Session**
-<br> Location: TBD
+<br> Location: Library rm166
 
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
@@ -28,13 +28,12 @@
 
 
 **Lab**
-<br>Location: Library ~ rm166
 
-| Day | Staff Member |  Time | Modality |
-| --- | --- | --- |--- |
-|Monday |   Matt, David |   2:00p – 3:45p  | In-person |
-|Friday |   Lily, Nick, Matt, Jason |   12:00p – 1:45p| In-person |
-|Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person |
+| Day | Staff Member |  Time | Modality | Location |
+| --- | --- | --- |--- | --- |
+|Monday |   Matt, David |   2:00p – 3:45p  | In-person | Tyler 055 |
+|Friday |   Lily, Nick, Matt, Jason |   12:00p – 1:45p| In-person | Library rm166|
+|Friday |   Nick, Lily, Matt |   2:00p – 3:45p| In-person | Library rm166|
 
 ### Course Overview
 
