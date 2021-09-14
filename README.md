@@ -11,7 +11,7 @@
 | Day | Staff Member |  Time | Modality |
 | --- | --- | --- |--- |
 |Monday    |   Lily <br>  David <br> Matt |   10a - 1p  <br> 10a - 12p <br> 1p-2p  |   Virtual <br> In-person <br> In-person  |
-|Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person  |
+|Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person (Tyler 137)  |
 |Wednesday |    Nick   |   2p - 5p   |   Virtual   |
 |Thursday  |   David <br> Lily   |  9a - 11a <br> 10a - 1p   | Virtual <br>  In-person   |
 |Friday    |    Jason   |   9a - 10:45a   |   In- Person   |
