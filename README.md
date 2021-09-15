@@ -85,7 +85,7 @@ Coursework consists of lab attendance, problem sets, programming assignments, an
 | Gradebook item | Count | Weight | 
 | --- | --- | --- |
 | Lab Attendance | 1 | 10% |
-| Programming Assignments | ~8 | 25% | 
+| Programming Assignments | ~5 | 25% | 
 | Weekly Programming Challenges | ~13 | 10% | 
 | Exams | 2 | 30% |
 | Final Exam | 1 | 25% |
