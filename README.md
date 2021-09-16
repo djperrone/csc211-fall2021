@@ -12,7 +12,7 @@
 | --- | --- | --- |--- |
 |Monday    |   Lily <br>  David <br> Matt |   10a - 1p  <br> 10a - 12p <br> 1p-2p  |   Virtual <br> In-person <br> In-person  |
 |Tuesday   |    Jason <br> Michael  |  9a - 1p  <br> 3p-4p  |    Virtual <br> In-person (Tyler 137)  |
-|Wednesday |    Nick   |   2p - 5p   |   Virtual   |
+|Wednesday |    Nick   |   3:15p - 5:15p   |   Virtual   |
 |Thursday  |   David <br> Lily   |  9a - 11a <br> 10a - 1p   | Virtual <br>  In-person   |
 |Friday    |    Jason   |   9a - 10:45a   |   In- Person   |
 
@@ -85,7 +85,7 @@ Coursework consists of lab attendance, problem sets, programming assignments, an
 | Gradebook item | Count | Weight | 
 | --- | --- | --- |
 | Lab Attendance | 1 | 10% |
-| Programming Assignments | ~8 | 25% | 
+| Programming Assignments | ~5 | 25% | 
 | Weekly Programming Challenges | ~13 | 10% | 
 | Exams | 2 | 30% |
 | Final Exam | 1 | 25% |
