@@ -63,7 +63,7 @@ Birk has made a new shiny rocket and just received his licence from the Bluesky 
 Can you help Birk find out how many days he has to wait until he sends up his rocket?
 
 ## Input
-On the first line there is a single integer n (1≤n≤100000) the number of days for which the launch license is valid. On the second line follows n integers between 0 and 109 where the i’th integer is the amount of space junk on the i’th day. The first day is day i=0.
+On the first line there is a single integer n (1≤n≤100000) the number of days for which the launch license is valid. On the second line follows n integers between 0 and 1,000,000,000 where the i’th integer is the amount of space junk on the i’th day. The first day is day i=0.
 
 ## Output
 Output a single integer, the number of days Birk needs to wait before he launches his rocket.
@@ -140,7 +140,7 @@ i.e. (x/length, y/length)
 The formula for calculating the length of a vector is the Pythagorean formula: sqrt(x * x + y * y).
 
 ## Input
-The input will be 4 integers separated by whitespace.  They will contain the x, y positions of the vectors: x1 y1 x2 y2.
+The input will be 4 doubles separated by whitespace.  They will contain the x, y positions of the vectors: x1 y1 x2 y2.
 
 ## Output
 The output will be a string in the format: 
